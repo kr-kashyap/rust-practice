@@ -27,7 +27,7 @@
 
 <br>
 
-Duration ` 29 Mar 2023 - Present `
+Duration ` 29 Mar 2023 - 12 Apr 2023`
 
 ## Creator 
 [`Kashyap Nirmal`](https://github.com/kr-kashyap/)
